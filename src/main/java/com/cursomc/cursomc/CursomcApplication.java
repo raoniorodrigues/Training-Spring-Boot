@@ -32,7 +32,7 @@ public class CursomcApplication implements CommandLineRunner {
 
 		Produto p1 = new Produto(null, "Computador", 7800.56);
 		Produto p2 = new Produto(null, "NoteBook", 7800.56);
-		Produto p3 = new Produto(null, "M ouse", 7800.56);
+		Produto p3 = new Produto(null, "Mouse", 7800.56);
 		Produto p4 = new Produto(null, "Cadeira Gamer", 7800.56);
 		Produto p5 = new Produto(null, "Mesa Industrial", 7800.56);
 
